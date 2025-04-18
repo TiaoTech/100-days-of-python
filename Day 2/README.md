@@ -24,6 +24,6 @@ Then it calculates the total per person and rounds the result to two decimal pla
 Each person will pay $15.27
 
 ## 🗂️ File
-- `day-2-tip-calculator.py`
+- `tip-calculator.py`
 
 This was a great challenge for combining math with user interaction and formatting!
