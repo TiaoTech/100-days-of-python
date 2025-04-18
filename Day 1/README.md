@@ -19,3 +19,8 @@ The program asks the user two questions:
 It then combines these two answers to generate a fun band name suggestion like:
 
 Your band name could be Toronto Tiger
+
+## 🗂️ File
+- `day-1-band-name-generator.py`
+
+This was a fun and simple introduction to writing interactive programs!
