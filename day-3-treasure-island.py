@@ -33,12 +33,12 @@ if choice1 == "left":
                     "Do you enter the boat?"
                     "\nType \"yes\" to get onto the boat or type \"no\" to walk away from the boat\n").lower()
 
-    if choice2 == "yes":
+    if choice2 == "no":
         game_over = True
         print("You decide it is best to not get on the boat and you turn around to walk away, but when you do "
               "you slip on the wet wood and fall into the water that is filled with Piranhas and you die.")
 
-    elif choice2 == "no":
+    elif choice2 == "yes":
         choice3 = input("You get on the boat and it starts to sail away from the dock. After some time, "
                         "the boat reaches an island with an old log cabin, do you enter?"
                         "\nType \"yes\" if you want to enter the cabin or type \"no\" if you want to walk away from the cabin\n").lower()
