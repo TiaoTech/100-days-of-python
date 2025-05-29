@@ -28,6 +28,23 @@ This project was built as part of my Python learning journey (Day 5) and demonst
 
 1. Make sure Python is installed on your system.
 2. Run the script in your terminal or IDE:
+3. Follow the prompts to enter how many letters, symbols, and numbers you'd like.
 
-```bash
-python py_password_generator.py
+Example
+
+Welcome to the PyPassword Generator!
+How many letters would you like in your password?
+> 5
+How many symbols would you like?
+> 2
+How many numbers would you like?
+> 3
+
+Your password is: R8@tL#eP1
+
+## 📚 What I Learned
+
+- How to use for loops for repeated actions
+- How to manipulate and shuffle lists
+- How to combine user input with logic to build interactive scripts
+- Importance of validating user input
